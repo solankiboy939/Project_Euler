@@ -28,7 +28,7 @@ Project Euler is a platform with a collection of mathematical and computational 
 ## 📝 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/solankiboy939/Project_Euler.git
+   git clone https://github.com/solankiboy939/Project_Euler/Project_Euler.git
    
 cd Project_Euler
 
